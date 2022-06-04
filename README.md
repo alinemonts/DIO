@@ -1,2 +1,2 @@
 # DIO
-Desafio de código Git/Github
+Pasta direcionada à realização de cursos na plataforma DIO.
